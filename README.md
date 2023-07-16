@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subroto407&label=Profile%20views&color=0e75b6&style=flat" alt="subroto407" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subroto407" alt="subroto407" /></a> </p>
 
 - 🔭 I’m currently working on [daraz_add_to_cart_page-automation_ui-with_java](https://github.com/subroto407/daraz_add_to_cart_page-automation_ui-with_java)
 

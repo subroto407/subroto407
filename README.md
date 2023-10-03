@@ -11,8 +11,7 @@
 - 💬 Ask me about **Manual and Automation Testing**
 
 - 📫 How to reach me **subrotokumarpaul407@gmail.com**
-
-- ⚡ Fun fact **I am funny**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -21,7 +21,11 @@
 - 💬 Ask me about **Manual and Automation Testing**
 
 - 📫 How to reach me **subrotokumarpaul407@gmail.com**
-- 
+
+  <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/subroto407/count.svg" />
+  </p>
 
 
 <h3 align="left">Languages and Tools:</h3>

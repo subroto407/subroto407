@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Subroto Kumar Paul</h1>
-<h3 align="center">Full Stack UI & API in Manual and Automation Tester</h3>
+### Hey, This is Subroto Kumar Paul 
+#### Contact Details: 
+                      📲 Cell Number/WhatsApp:   +880 1409546174  
+                      📨 Email:         subrotokumarpaul407@gmail.com
+<h2 align="center">Full Stack UI & API in Manual and Automation Tester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subroto407&label=Profile%20views&color=0e75b6&style=flat" alt="subroto407" /> </p>
 

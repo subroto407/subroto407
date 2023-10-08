@@ -27,6 +27,19 @@
   <img src="https://profile-counter.glitch.me/subroto407/count.svg" />
   </p>
 
+**About me**
+A highly competent and results-oriented Manual & Automation  Software Tester in Selenium WebDriver, Java, TestNG, Maven, POM with Page Factory on Agile-scrum environment, and hands-on ALM, JIRA, SQL, Postman & web-service (RESTful).
+
+✅  Technical Skills  ✅
+ 
+🔹 Automation Framework Design.</br>
+🔹 Selenium WebDriver with Java.</br>
+🔹 TestNG, Maven, NPM.</br>
+🔹 Version Control tools- GitHub, GitLab.</br>
+🔹 Page Object Model with Page Factory and Data-Driven Concept.</br>
+🔹 POSTMAN, RestAssured, RESTful API. </br>
+🔹 Outstanding experience with manual testing using JIRA, Zephyr, and Excel.</br>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>

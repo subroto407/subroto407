@@ -3,9 +3,8 @@
                       📲 Cell Number/WhatsApp:   +880 1409546174  
                       📨 Email:         subrotokumarpaul407@gmail.com
 
-                      <a href="https://www.linkedin.com/in/subroto-kumar-paul407/">
+<a href="https://www.linkedin.com/in/subroto-kumar-paul407/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/subroto-kumar-paul407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subroto-kumar-paul407" height="30" width="40" /></a>

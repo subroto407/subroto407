@@ -5,21 +5,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/subroto-kumar-paul407/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-<a href="https://leetcode.com/subrotopaul/">
-    <img src="https://img.shields.io/badge/leetcode-red?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode Badge"/>   
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>  
   
 
 <h2 align="center">Full Stack UI & API in Manual and Automation Tester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subroto407&label=Profile%20views&color=0e75b6&style=flat" alt="subroto407" /> </p>
-
-
-- 🔭 I’m currently working on [daraz_add_to_cart_page-automation_ui-with_java](https://github.com/subroto407/daraz_add_to_cart_page-automation_ui-with_java)
-
-- 🌱 I’m currently learning **CypressIo with JavaScript**
-
-- 💬 Ask me about **Manual and Automation Testing**
 
 - 📫 How to reach me **subrotokumarpaul407@gmail.com**
 
